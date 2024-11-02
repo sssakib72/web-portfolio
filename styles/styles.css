@@ -30,6 +30,9 @@ nav{
     color: #474747;
 }
 
+.all{
+    background-color: #FFF6EF;
+}
 
 nav ul li{
     list-style: none;
@@ -99,6 +102,38 @@ nav ul {
     background-image: url(../images/developer.png), url(../images/header_bg.png);
     background-position: top left, bottom right;
     background-repeat: no-repeat;
-    background-color: #FFF6EF;
+    
 }
 
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    /* background-color: white; */
+    
+}
+
+/* main styles */
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 150px;
+}
+
+
+.item-des{
+    font-weight: 600;
+}
+
+.about-items{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 40px 20px 40px;
+}
+
+.white{
+    background-color: white;
+    padding: 30px 50px;
+    border: solid 0.5px;
+}
