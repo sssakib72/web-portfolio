@@ -21,9 +21,15 @@ nav{
     font-size: 45px;
 }
 
+/* shared items */
 .text-primary{
     color: #FD6E0A;
 }
+
+.dark-2{
+    color: #474747;
+}
+
 
 nav ul li{
     list-style: none;
@@ -36,8 +42,16 @@ nav li a{
     /* color: #474747; */
 }
 
-.dark-2{
-    color: #474747;
+.sec-title{
+    font-family: "Open Sans", sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+
+.sec-des{
+    font-size: 18px;
+    color: #757575;
 }
 
 nav ul {
@@ -85,4 +99,6 @@ nav ul {
     background-image: url(../images/developer.png), url(../images/header_bg.png);
     background-position: top left, bottom right;
     background-repeat: no-repeat;
+    background-color: #FFF6EF;
 }
+
