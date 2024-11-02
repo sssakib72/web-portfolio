@@ -13,7 +13,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 50px 200px;
+    margin: 0px 200px;
 }
 
 .nav-title{
@@ -137,3 +137,4 @@ main{
     padding: 30px 50px;
     border: solid 0.5px;
 }
+
