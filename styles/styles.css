@@ -160,6 +160,7 @@ main{
 .resume-container{
     display: flex;
     gap: 24px;
+    margin-bottom: 50px;
 }
 
 .experience-subtitle{
