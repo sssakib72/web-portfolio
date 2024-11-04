@@ -172,3 +172,28 @@ main{
 .experience-des, .experience-subtitle{
     color: #757575;
 }
+
+/* foooter */
+
+footer{
+    margin-top: 50px;
+    padding: 130px 230px;
+    display: flex;
+    gap: 150px;  
+}
+
+.footer-column{
+    width: 50%;
+}
+
+input[type="text"], input[type="email"], textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+    font-size: 15px;
+}
